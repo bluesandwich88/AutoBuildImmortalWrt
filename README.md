@@ -77,6 +77,8 @@ https://wkdaily.cpolar.cn/15
 - https://github.com/sirpdboy/luci-theme-kucat
 - https://github.com/AdguardTeam/AdGuardHome
 - https://github.com/kiddin9/kwrt-packages
+
+
 # 🌟鸣谢
 ### https://github.com/immortalwrt
 
